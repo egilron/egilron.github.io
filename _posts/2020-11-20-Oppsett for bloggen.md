@@ -7,5 +7,5 @@ Hvis alt var enkelt og greit, hadde det ikke vært så spennende å utforske. Vi
 ### Husk å sjekke e-post om build errors fra github pages
 Vi skulle få bort "Your Awesome title". Jeg hadde fjernet teksta i [_config.yml](_config.yml), og så må ting få oppdatere seg. Men det gjorde de ikke siden jeg hadde en feil i description som gjorde at sidene ikke ble oppdatert. Da description ble retta, så fungerer oppdateringen.
 ### Publisert-knappen
-![Husk å publisere](img/publish.png)
+![Husk å publisere]({{ site.url }}/img/publish.png)
 
