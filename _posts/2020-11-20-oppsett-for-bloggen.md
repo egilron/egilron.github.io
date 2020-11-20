@@ -1,5 +1,9 @@
 ---
-published: false
+published: true
+layout: post
+title: Oppsett for bloggen
+date: '2020-11-20 15:28:12 +0100'
+categories: teknisk
 ---
 ## Github pages, jekyll og prose
 
