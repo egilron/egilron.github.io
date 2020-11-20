@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 ## Github pages, jekyll og prose
 
