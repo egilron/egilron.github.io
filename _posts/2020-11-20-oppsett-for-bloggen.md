@@ -14,4 +14,4 @@ Vi skulle få bort "Your Awesome title". Jeg hadde fjernet teksta i [_config.yml
 Når vi redigerer i Prose, er det valget for publisering til høyre i den grå stripa, litt diskret plassert.
 
 
-![publisering](https://github.com/egilron/egilron.github.io/blob/master/img/publish.png)
+![publisering]({{ site.url }}//img/publish.png)
