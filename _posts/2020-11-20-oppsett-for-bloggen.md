@@ -12,4 +12,4 @@ Hvis alt var enkelt og greit, hadde det ikke vært så spennende å utforske. Vi
 Vi skulle få bort "Your Awesome title". Jeg hadde fjernet teksta i [_config.yml](_config.yml), og så må ting få oppdatere seg. Men det gjorde de ikke siden jeg hadde en feil i description som gjorde at sidene ikke ble oppdatert. Da description ble retta, så fungerer oppdateringen.
 ### Publisert-knappen
 Når vi redigerer i Prose, er det valget for publisering til høyre i den grå stripa, litt diskret plassert.
-![Publisering]({{ site.url }}/img/publish.png)
+![publisering]({{ site.url }}/img/publish.png)
