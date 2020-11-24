@@ -13,8 +13,7 @@ Vi skulle få bort "Your Awesome title". Jeg hadde fjernet teksta i [_config.yml
 ### Publisert-knappen
 Når vi redigerer i Prose, er det valget for publisering til høyre i den grå stripa, litt diskret plassert.
 
-![]({{site.baseurl}}/img/publish.png)
+![Publiseringsknappen]({{site.baseurl}}/img/publish.png)
 
-Men html i md-dokumentet:
-<img scr="https://egilron.github.io/img/publish.png" alt="publiseringsknappen">
+
 
