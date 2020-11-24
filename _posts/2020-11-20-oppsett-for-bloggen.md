@@ -15,3 +15,6 @@ Når vi redigerer i Prose, er det valget for publisering til høyre i den grå s
 
 ![]({{site.baseurl}}/img/publish.png)
 
+Men html i md-dokumentet:
+<img scr="https://egilron.github.io/img/publish.png" alt="publiseringsknappen">
+
