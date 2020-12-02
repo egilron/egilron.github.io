@@ -11,16 +11,16 @@ De som har annotert denne setningen har sagt at her er det en sekvens som får p
 Når vi skal mate denne informasjonen inn til et nevralt nettverk, begynner vi med å presentere dataene i conll format. (I dette ordet skal de fleste bokstavene være store (CoNLL tror jeg). Jeg er litt motstander av slik hompetitten-notering, både på OsloMet, og på NoReC. Jeg synes det gir dårlig leseflyt. Så siden jeg kan bestemme sjøl her på bloggen, så bruker jeg mest små bokstaver. Jeg tør ikke endre på skriveformen til NoReC, for jeg kjenner de folka, og vil gjerne være venner med de framover også :) ) (Smilefjes med parentes slutt)
 
 Jeg bruker BIO-formatet, som gir første ord i sekvensen vi er ute etter en B, og resten av ordene i sekvensen får en I, og de som er utafor sekvensene får O.
-Da kan setningen over bli representert slik som vist under. Skillet mellom ordet og taggen er egentlig kun ett mellomrom. Jeg la til noen flere for å se om det ble lettere å lese.
+Da kan setningen over bli representert slik som vist under. Skillet mellom ordet og taggen er egentlig kun ett mellomrom. Jeg la til noen tabulatorer her, for å se om det ble lettere å lese.
 
 ```
 Maggios 	B-targ-positive
 myke 		B-targ-positive
 soulvokal 	I-targ-positive
-og 			I-targ-positive
+og 		I-targ-positive
 tidvis 		I-targ-positive
 fengende 	I-targ-positive
-låter 	I-targ-positive
+låter 	    I-targ-positive
 redder 	O
 den 	O
 uinspirerte	O
