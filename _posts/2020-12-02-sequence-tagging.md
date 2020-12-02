@@ -6,7 +6,7 @@ Når vi skal trene modell for targeted sentimentanalyse, har jeg valgt å gjøre
 
 > Maggios myke soulvokal og tidvis fengende låter redder den uinspirerte opptredenen fra å bli en fadese .
 
-De som har annotert denne setningen har sagt at her er det en sekvens som får positivt sentiment, og en sekvens som får negativt sentiment. Det positive targeted, eller "sentimentobjektet" som jeg kanskje tør kalle det på norsk, er _Maggios myke soulvokal og tidvis fengende låter_. Det negative sentimentobjektet er _opptredenen_.
+De som har annotert denne setningen har sagt at her er det en sekvens som får positivt sentiment, og en sekvens som får negativt sentiment. Det positive targetet, eller "sentimentobjektet" som jeg kanskje tør kalle det på norsk, er _Maggios myke soulvokal og tidvis fengende låter_. Det negative sentimentobjektet er _opptredenen_.
 
 Når vi skal mate denne informasjonen inn til et nevralt nettverk, begynner vi med å presentere dataene i conll format. (I dette ordet skal de fleste bokstavene være store (CoNLL tror jeg). Jeg er litt motstander av slik hompetitten-notering, både på OsloMet, og på NoReC. Jeg synes det gir dårlig leseflyt. Så siden jeg kan bestemme sjøl her på bloggen, så bruker jeg mest små bokstaver. Jeg tør ikke endre på skriveformen til NoReC, for jeg kjenner de folka, og vil gjerne være venner med de framover også :) ) (Smilefjes med parentes slutt)
 
