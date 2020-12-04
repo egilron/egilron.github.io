@@ -1,7 +1,6 @@
 ---
 published: true
 title: Oppsett maskin og programmer
-
 ---
 Det er ikke bare-bare å sette opp ei datamaskin for maskinlæring på grafikk-kortet. Men veldig artig når det er gjort. Jeg kjøpte meg en MSI bærbar med GTX 1070 grafikk-kort. Jeg installerte Linux på snurre-harddisken slik at jeg har dual boot. Jeg gjorde dette før jeg begynte å bruke den disken til noe annet, slik at jeg kunne la installasjonen styre med disken som den ville, men jeg lot en god partisjon bli NTFS slik at den kan brukes av begge systemene.
 
@@ -10,6 +9,7 @@ Jeg installerte [pop!OS](https://pop.system76.com) fordi de har en egen installa
 
 #### Versjons-stabelen.
 I de to årene jeg har hatt denne maskina nå, har jeg oppdatert CUDA en gang, og jeg oppdaterte OS fra 18.04 til 20.04. Det er et styr, og det å oppdatere til 20.04 var nok ikke verdt det, sånn midt i oppgaveskrivinga. Jeg kom ikke utenom å oppdatere CUDA, på grunn av oppdateringer i Simpletransformers og pyTorch, tror jeg det var. Hele rekka med CUDA, pyTorch, Python, Transformers og Simpletransformers trenger å spille sammen. Hovederfaringen er: Bruk alltid virtuelle python-miljøer, og når ting fungerer, ikke rør det før du må. Begynn hos [pyTorch](https://pytorch.org/get-started/locally/) og på på plass en CUDA-versjon som de har i oppsettet sitt, og ta det derfra.
+
 ![Programvarestabelen]({{site.baseurl}}img/hardwaresetup.jpg)
 
 #### Hva med Windows?
