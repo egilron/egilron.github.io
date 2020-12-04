@@ -15,5 +15,5 @@ I de to årene jeg har hatt denne maskina nå, har jeg oppdatert CUDA en gang, o
 #### Hva med Windows?
 Personlig har jeg mye erfaring med Windows, og bruker det i hverdagen. Men jeg har plundret så mye med språkteknologi og UTF8-problematikk, at jeg har gitt det opp for alle prosjekter med norsk tekst. Jeg lar aldri norske språkdata være innom Windows på veien. Og siden jeg derfor trenger et Linux-miljø, gjør jeg alt på Linux. WLS2 på Windows er fint, men det er ingen kobling mot CUDA ennå, så for dette prosjektet er det uaktuelt.
 
-### Skyløsning
+#### Skyløsning
 Egentlig burde man sikkert ikke styre med å sette opp si ega maskin til dette i det hele tatt, men kjøre det i skya. Google sin løsning lar deg visst gjøre mye på gratis-kontoen. Vel, jeg trengte ei ny maskin uansett, og det er litt tilfredsstillende å få det til, så jeg rapporterer på det jeg har gjort.
