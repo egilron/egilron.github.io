@@ -10,7 +10,7 @@ Jeg installerte [pop!OS](https://pop.system76.com) fordi de har en egen installa
 #### Versjons-stabelen.
 I de to årene jeg har hatt denne maskina nå, har jeg oppdatert CUDA en gang, og jeg oppdaterte OS fra 18.04 til 20.04. Det er et styr, og det å oppdatere til 20.04 var nok ikke verdt det, sånn midt i oppgaveskrivinga. Jeg kom ikke utenom å oppdatere CUDA, på grunn av oppdateringer i Simpletransformers og pyTorch, tror jeg det var. Hele rekka med CUDA, pyTorch, Python, Transformers og Simpletransformers trenger å spille sammen. Hovederfaringen er: Bruk alltid virtuelle python-miljøer, og når ting fungerer, ikke rør det før du må. Begynn hos [pyTorch](https://pytorch.org/get-started/locally/) og på på plass en CUDA-versjon som de har i oppsettet sitt, og ta det derfra.
 
-![Programvarestabelen]({{site.baseurl}}img/hardwaresetup.jpg)
+![Programvarestabelen]({{site.baseurl}}/img/hardwaresetup.jpg)
 
 #### Hva med Windows?
 Personlig har jeg mye erfaring med Windows, og bruker det i hverdagen. Men jeg har plundret så mye med språkteknologi og UTF8-problematikk, at jeg har gitt det opp for alle prosjekter med norsk tekst. Jeg lar aldri norske språkdata være innom Windows på veien. Og siden jeg derfor trenger et Linux-miljø, gjør jeg alt på Linux. WLS2 på Windows er fint, men det er ingen kobling mot CUDA ennå, så for dette prosjektet er det uaktuelt.
