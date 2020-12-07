@@ -1,5 +1,6 @@
 ---
-published: false
+published: true
+title: Laste data
 ---
 
 Det er en jobb å få tekst-dataene våre til å passe med det nevrale nettverket vi bruker, og her har vi god nytte av overbygninger som [simpletransformers](https://simpletransformers.ai/).
