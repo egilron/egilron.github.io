@@ -1,7 +1,8 @@
 ---
-published: false
+published: true
+title: Oppsett parametere
 ---
-Nå skal vi sette opp simpletransformers til å ta imot dataene våre, og sette parametrene. 
+Nå skal vi sette opp simpletransformers til å ta imot dataene våre, og sette parameterene. 
 Kjernfunksjonene er i bare tre linjer: Definere modellen, trene modellen, og evaluere modellen. Hos meg skjer det med kodelinjene:
 ```
     model = NERModel(family,transformersmodel , labels = tags,args=model_args)
@@ -10,7 +11,7 @@ Kjernfunksjonene er i bare tre linjer: Definere modellen, trene modellen, og eva
 ```
 Jeg definerer disse variablene i andre linjer, for at det skal være enkelere å sette i gang sløyfer med flere eksperimenter. Min notebook for dette finner du [her:](https://github.com/egilron/norec_fine_tools/blob/master/Experiments21_norec_bert.ipynb)
 
-Parametrene for treningen er noe du kan eksperimentere med. Simpletransformers fikk nytt opplegg for å sette parametrene til denne type oppgaver, nå i 2020, så jeg måtte skrive om koden jeg hadde fra siste vinter.
+Parameterne for treningen er noe du kan eksperimentere med. Simpletransformers fikk nytt opplegg for å sette parametre til denne type oppgaver nå i 2020, så jeg måtte skrive om koden jeg hadde fra siste vinter.
 Her er mine parametre:
 ```
     model_args = NERArgs() # New args loading fall 2020
