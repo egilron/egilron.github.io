@@ -1,5 +1,6 @@
 ---
-published: false
+published: true
+title: Trene modellen
 ---
 Når parametrene er satt til noe nogenlunde meningsfullt, er det bare tut og kjør og trene modellen.
 Jeg har lagd en del kode som gjør at jeg kan kjøre flere treninger etter hverandre, og samle inn resultatene. Merk at det kan bli trang på stedet du har satt som `out_d`. Det blir fort noen GB der, så pass på å slette lagringer du ikke har bruk for.
