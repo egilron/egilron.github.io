@@ -2,7 +2,7 @@
 published: true
 title: Norsk NER med xlm-RoBERTa
 ---
-I [forrige innlegg](https://egilron.github.io/2021/01/27/norne-NER.html) viste jeg at jeg enkelt fikk 5% bedre resultater på Named Entity Reckognition NER på norsk, ved å bruke m-BERT, sammenlignet med min gamle LSTM-CRF-baserte modell som jeg hadde jobbet mye med å fininstille. Jeg har nå sjekket hvordan det gikk hvis vi brukte xlm-RoBERTa is stedet for m-BERT. Jeg har også sett på hvordan det gikk hvis vi forenklet taggene ned til de fire viktigste. 
+I [forrige innlegg](https://egilron.github.io/2021/01/27/norne-NER.html) viste jeg at jeg enkelt fikk 5% bedre resultater på Named Entity Recognition NER på norsk, ved å bruke m-BERT, sammenlignet med min gamle LSTM-CRF-baserte modell som jeg hadde jobbet mye med å fininstille. Jeg har nå sjekket hvordan det gikk hvis vi brukte xlm-RoBERTa is stedet for m-BERT. Jeg har også sett på hvordan det gikk hvis vi forenklet taggene ned til de fire viktigste. 
 
 Det fulle settet med tagger er: 
 ['PER', 'ORG', 'GPE_LOC', 'DRV', 'PROD', 'LOC', 'GPE_ORG',  'MISC', 'EVT', 'O']
