@@ -23,7 +23,7 @@ De fire taggene i det reduserte settet tilsvarer kategoriene som ble brukt i en 
 
 Det jeg fikk ved å trene modeller for NER på norsk ved hjelp av m-BERT og xlm-RoBERTa i 8 epoker, var følgende F-score:
 ```
-			M-BERT	Xlm-RoBERTa
+		M-BERT	Xlm-RoBERTa
 4 labels	0.901	0.931
 All labels	0.901	0.91
 ```
