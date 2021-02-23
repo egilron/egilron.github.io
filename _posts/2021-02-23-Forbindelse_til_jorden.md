@@ -11,13 +11,13 @@ Uansett, så har jeg trukket ut den første biten fra det repoet som er [Wikifie
 
 
 
-
+``
 
 Individuals found in the training set, containing 'mari':
 
-> Mentions of Fredrikke Marie Qvam in the training set, according to Wikifier:
+Mentions of Fredrikke Marie Qvam in the training set, according to Wikifier:
 [Web page: ](http://no.wikipedia.org/wiki/Fredrikke_Marie_Qvam)
-> Hun har bakgrunn som journalist i Klassekampen , og utga i 2013 en biografi om Fredrikke Marie Qvam , en av strategene bak kvinnenes seier i kampen for stemmerett .
+Hun har bakgrunn som journalist i Klassekampen , og utga i 2013 en biografi om Fredrikke Marie Qvam , en av strategene bak kvinnenes seier i kampen for stemmerett .
 
 Mentions of Maria I av England in the training set, according to Wikifier:
 Web page: http://no.wikipedia.org/wiki/Maria_I_av_England
@@ -25,7 +25,7 @@ Dette er Maria Menas nyeste plate :
 Maria Kannegaard trio :
 Maria Mena :
 Å « synge sin dagbok » er det Maria Mena gjør .
-```
+
 Mentions of Maria Mena in the training set, according to Wikifier:
 Web page: http://no.wikipedia.org/wiki/Maria_Mena
 Årets album viser Maria Mena fra en lysere side , der mye av musikken er gitarbasert , gode og varierte låter i et fengende , melodisk poplandskap .
@@ -47,8 +47,8 @@ Og i 2014 var det altså unggutten Mario Götze som ble den store helten , til t
 Mentions of Marion Ravn in the training set, according to Wikifier:
 Web page: http://no.wikipedia.org/wiki/Marion_Ravn
 Marion Ravn debuterer i samme rolle i morgen kveld , og for at vi ikke skal være i tvil om hvorfor hun er med lanserte hun sin nye singel på P4 i går .
-```
 
 
+``
 
 Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the toolbar above, or click the **?** button for formatting help.
