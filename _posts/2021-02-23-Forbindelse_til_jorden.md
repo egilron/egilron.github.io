@@ -9,9 +9,8 @@ Men så har vi spørsmålet om hvilke at disse som refererer til **samme** perso
 
 Uansett, så har jeg trukket ut den første biten fra det repoet som er [Wikifier](http://www.wikifier.org/). 
 
+<code>
 
-
-``
 
 Individuals found in the training set, containing 'mari':
 
@@ -49,6 +48,6 @@ Web page: http://no.wikipedia.org/wiki/Marion_Ravn
 Marion Ravn debuterer i samme rolle i morgen kveld , og for at vi ikke skal være i tvil om hvorfor hun er med lanserte hun sin nye singel på P4 i går .
 
 
-``
+</code>
 
 Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the toolbar above, or click the **?** button for formatting help.
