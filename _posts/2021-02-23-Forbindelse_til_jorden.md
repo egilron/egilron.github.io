@@ -10,7 +10,8 @@ Men så har vi spørsmålet om hvilke at disse som refererer til **samme** perso
 
 Uansett, så har jeg trukket ut den første biten fra det repoet som er [Wikifier](http://www.wikifier.org/). Min `wikify_demo.py` ligger i [norec_fine_tools](https://github.com/egilron/norec_fine_tools). Legg inn stien til json treningsdata fra [Norec_fine](https://github.com/ltgoslo/norec_fine), legg inn stien til en cachemappe, og legg inn søketeksten. Med "peter" eller "mari" ser vi både hvor godt det fingerer, og hvor uperfekt det er. Av en eller annen grunn vil ikke Maria Mena la seg kategorisere. Nesten alle feilene er visst knytta til henne: 
 
-<code>Individuals found in the training set, containing "mari":
+~~~~
+Individuals found in the training set, containing "mari":
 
 Mentions of Fredrikke Marie Qvam in the training set, according to Wikifier:
 Web page: http://no.wikipedia.org/wiki/Fredrikke_Marie_Qvam  
@@ -43,5 +44,6 @@ Og i 2014 var det altså unggutten Mario Götze som ble den store helten , til t
 
 Mentions of Marion Ravn in the training set, according to Wikifier:
 Web page: http://no.wikipedia.org/wiki/Marion_Ravn  
-Marion Ravn debuterer i samme rolle i morgen kveld , og for at vi ikke skal være i tvil om hvorfor hun er med lanserte hun sin nye singel på P4 i går .</code>
+Marion Ravn debuterer i samme rolle i morgen kveld , og for at vi ikke skal være i tvil om hvorfor hun er med lanserte hun sin nye singel på P4 i går .
+~~~~
 
