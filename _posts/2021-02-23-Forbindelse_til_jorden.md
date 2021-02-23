@@ -7,15 +7,12 @@ Når vi gjør Named Entity Recognition, ønsker vi å finne hva i teksten som re
 
 Men så har vi spørsmålet om hvilke at disse som refererer til **samme** person eller virksomhet. Det er veldig interessant, og jeg fant en artikkel i [Medium](https://towardsdatascience.com/from-text-to-knowledge-the-information-extraction-pipeline-b65e7e30273e) som beskriver et eksempel på hvordan denne prosessen kan se ut. Han har en pipeline på [Github](https://github.com/tomasonjo/trinity-ie) som er satt sammen av flere interessante komponenter. Som han nevner i artikkelen, er det vanskelig å få installert de forskjellige modulene slik at de snakker sammen og er fornøyd med hverandre. Men det kan anbefales. Jeg kom i havn med Python 3.6, Spacy 2.3 og å clone ned neuralcoref og openNRE og installere de lokalt.
 
-Uansett, så har jeg trukket ut den første biten fra det repoet som er [Wikifier](http://www.wikifier.org/). 
+Uansett, så har jeg trukket ut den første biten fra det repoet som er [Wikifier](http://www.wikifier.org/). Min `wikify_demo.py` ligger i [norec_fine_tools](https://github.com/egilron/norec_fine_tools). Legg inn stien til json treningsdata fra [Norec_fine](https://github.com/ltgoslo/norec_fine), legg inn stien til en cachemappe, og legg inn søketeksten. Med "peter" eller "mari" ser vi både hvor godt det fingerer, og hvor uperfekt det er. Av en eller annen grunn vil ikke Maria Mena la seg kategorisere. Nesten alle feilene er visst knytta til henne: 
 
-<code>
-
-
-Individuals found in the training set, containing 'mari':
+<code>Individuals found in the training set, containing "mari":
 
 Mentions of Fredrikke Marie Qvam in the training set, according to Wikifier:
-[Web page: ](http://no.wikipedia.org/wiki/Fredrikke_Marie_Qvam)
+Web page: http://no.wikipedia.org/wiki/Fredrikke_Marie_Qvam
 Hun har bakgrunn som journalist i Klassekampen , og utga i 2013 en biografi om Fredrikke Marie Qvam , en av strategene bak kvinnenes seier i kampen for stemmerett .
 
 Mentions of Maria I av England in the training set, according to Wikifier:
@@ -45,9 +42,5 @@ Og i 2014 var det altså unggutten Mario Götze som ble den store helten , til t
 
 Mentions of Marion Ravn in the training set, according to Wikifier:
 Web page: http://no.wikipedia.org/wiki/Marion_Ravn
-Marion Ravn debuterer i samme rolle i morgen kveld , og for at vi ikke skal være i tvil om hvorfor hun er med lanserte hun sin nye singel på P4 i går .
+Marion Ravn debuterer i samme rolle i morgen kveld , og for at vi ikke skal være i tvil om hvorfor hun er med lanserte hun sin nye singel på P4 i går .</code>
 
-
-</code>
-
-Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the toolbar above, or click the **?** button for formatting help.
