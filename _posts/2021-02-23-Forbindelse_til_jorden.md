@@ -15,7 +15,7 @@ Uansett, så har jeg trukket ut den første biten fra det repoet som er [Wikifie
 
 Individuals found in the training set, containing 'mari':
 
-Mentions of Fredrikke Marie Qvam in the training set, according to Wikifier:
+> Mentions of Fredrikke Marie Qvam in the training set, according to Wikifier:
 [Web page: ](http://no.wikipedia.org/wiki/Fredrikke_Marie_Qvam)
 Hun har bakgrunn som journalist i Klassekampen , og utga i 2013 en biografi om Fredrikke Marie Qvam , en av strategene bak kvinnenes seier i kampen for stemmerett .
 
