@@ -46,3 +46,5 @@ Mentions of Marion Ravn in the training set, according to Wikifier:
 Web page: http://no.wikipedia.org/wiki/Marion_Ravn  
 Marion Ravn debuterer i samme rolle i morgen kveld , og for at vi ikke skal være i tvil om hvorfor hun er med lanserte hun sin nye singel på P4 i går .
 ~~~~
+
+Et sprøsmål man kan stille seg er om den første setningen forteller oss at Fredrikke Marie Qvam var journalist i Klassekampen. ELler- hvem er "Hun" som setningen begynner med? For å svare på det må vi ha coreference resolution. Det er også med i repoet til [Tomaz Bratanic](https://towardsdatascience.com/from-text-to-knowledge-the-information-extraction-pipeline-b65e7e30273e). Så får vi se hvor greit det er å få det til å fungere med norsk tekst...
