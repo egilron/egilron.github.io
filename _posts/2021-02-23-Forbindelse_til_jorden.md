@@ -17,7 +17,7 @@ Individuals found in the training set, containing 'mari':
 
 > Mentions of Fredrikke Marie Qvam in the training set, according to Wikifier:
 [Web page: ](http://no.wikipedia.org/wiki/Fredrikke_Marie_Qvam)
-Hun har bakgrunn som journalist i Klassekampen , og utga i 2013 en biografi om Fredrikke Marie Qvam , en av strategene bak kvinnenes seier i kampen for stemmerett .
+> Hun har bakgrunn som journalist i Klassekampen , og utga i 2013 en biografi om Fredrikke Marie Qvam , en av strategene bak kvinnenes seier i kampen for stemmerett .
 
 Mentions of Maria I av England in the training set, according to Wikifier:
 Web page: http://no.wikipedia.org/wiki/Maria_I_av_England
