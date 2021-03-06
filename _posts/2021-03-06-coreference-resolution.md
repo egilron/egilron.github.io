@@ -1,5 +1,6 @@
 ---
-published: false
+title: Coreference resolution
+published: true
 ---
 
 I forrige innlegg så vi hvordan vi kangjøre oppslap mot Wikipedia for å finne ut hvilke navn som nevnes i en tekst, er knyttet til hvilke virkelige personer. Det gikk ikke så verst, untatt at Marion Ravn var over alt og ikke lot seg kategorisere.
