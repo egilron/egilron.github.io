@@ -1,5 +1,6 @@
 ---
-published: false
+published: true
+title: Oppsummering og forslag til pipeline
 ---
 ### Oppsummering
 I denne bloggen har jeg sett på sentimentanalyse, og fire komponenter som det er interessant å sette i sammenheng: 
