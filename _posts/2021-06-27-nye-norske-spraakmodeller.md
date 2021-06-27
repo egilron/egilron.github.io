@@ -1,5 +1,6 @@
 ---
-published: false
+published: true
+title: Nye norske språkmodeller
 ---
 ## Nye BERT-baserte språkmodeller for norsk
 
@@ -7,7 +8,7 @@ Da jeg begynte å lage løsninger for sentimentanalyse, var M-BERT det eneste al
 
 Det ser ut til at Universitetet i Oslo og Nasjonalbiblioteket har en vennskapelig konkurranse gående, om å lage de beste modellene for norsk. Det er jo supert for oss oss som vil ta i bruk slike modeller. Jeg har begynt å lese [Large-Scale Contextualised Language Modelling for Norwegian](https://www.aclweb.org/anthology/2021.nodalida-main.4.pdf) som rapporterer resultatene de får, og sammenligner med M-BERT og Nasjonalbibliteket sin [NB-BERT-Base](https://github.com/NBAiLab/notram). [Se også denne siden](http://wiki.nlpl.eu/Vectors/norlm/norbert) for sammanligninger. 
 
-Modellene fra begge miljøene er heldigvis også tilgjengelige via HUggingface sitte repository, så det skulle gå greit å plugge de inn i eksisterende kode.
+Modellene fra begge miljøene er heldigvis også tilgjengelige via Huggingface sitte repository, så det skulle gå greit å plugge de inn i eksisterende kode.
 
 
 
