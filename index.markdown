@@ -4,14 +4,3 @@
 
 layout: home
 ---
-  __31. juli:__ Jeg skulle prøve meg med nye themes, og da ble layouten med topp-og bunntekst borte. Må få fiksa det.
-.
-<ul>
-  {% for post in site.posts %}
-    <li>
-      <a href="{{ post.url }}">{{ post.title }}</a>
-    </li>
-  {% endfor %}
-</ul>
-
-[Om meg](https://egilron.github.io/about/)
