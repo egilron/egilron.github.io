@@ -4,8 +4,8 @@
 
 layout: home
 ---
-31. juli: Jeg skulle prøve meg med nye themes, og da ble lista over poster borte. Må fikse det.
-
+31. juli: Jeg skulle prøve meg med nye themes, og da ble lista over poster borte. Må fikse det. 
+.
 <ul>
   {% for post in site.posts %}
     <li>
