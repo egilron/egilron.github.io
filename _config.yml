@@ -27,6 +27,7 @@ url: "https://egilron.github.io/" # the base hostname & protocol for your site, 
 github_username:  egilron
 
 # Build settings
+theme: minima
 plugins:
   - jekyll-feed
 
@@ -50,4 +51,3 @@ plugins:
 #   - vendor/gems/
 #   - vendor/ruby/
 
-theme: jekyll-theme-architect
