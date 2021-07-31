@@ -4,7 +4,7 @@
 
 layout: home
 ---
-31. juli: Jeg skulle prøve meg med nye themes, og da ble lista over poster borte. Må fikse det. 
+31. juli: Jeg skulle prøve meg med nye themes, og da ble layouten med topp-og bunntekst borte. Må få fiksa det.
 .
 <ul>
   {% for post in site.posts %}
@@ -13,3 +13,5 @@ layout: home
     </li>
   {% endfor %}
 </ul>
+
+[Om meg]({{site.baseurl}}/about.html)
