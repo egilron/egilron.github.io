@@ -4,4 +4,4 @@
 
 layout: home
 ---
-Tekst rett i index-fila
+31. juli: Jeg skulle prøve meg med nye themes, og da ble lista over poster borte. Må fikse det.
