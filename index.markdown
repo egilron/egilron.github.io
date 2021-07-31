@@ -4,7 +4,7 @@
 
 layout: home
 ---
-31. juli: Jeg skulle prøve meg med nye themes, og da ble layouten med topp-og bunntekst borte. Må få fiksa det.
+  __31. juli:__ Jeg skulle prøve meg med nye themes, og da ble layouten med topp-og bunntekst borte. Må få fiksa det.
 .
 <ul>
   {% for post in site.posts %}
