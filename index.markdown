@@ -4,3 +4,4 @@
 
 layout: home
 ---
+Tekst rett i index-fila
