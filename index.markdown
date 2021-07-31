@@ -14,4 +14,4 @@ layout: home
   {% endfor %}
 </ul>
 
-[Om meg]({{site.baseurl}}/about.html)
+[Om meg](https://egilron.github.io/about/)
