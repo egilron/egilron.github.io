@@ -4,3 +4,4 @@
 
 layout: home
 ---
+Løpende notater fra mitt arbeid med Transformer-baserte språkmodeller på norsk. Jeg bruker disse til å løse oppgaver innen sentimentanalyse, og Named Entity Recognition NER.
