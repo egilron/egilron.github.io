@@ -8,6 +8,8 @@ Så langt har vi gjort targeted sentemintanalyse med multilingual BERT som forh�
 1. Modellen må fungere i [NER-oppsettet til Simpletransformers](https://simpletransformers.ai/docs/ner-specifics/#supported-model-types).
 
 For å få til det første, trenger vi en flerspråklig modell. Jeg kjenner ikke til noen enspråklige norske modeller tilgjengelig, så vi må bruke en flerspråklig.  Hos [Huggingface](https://huggingface.co/transformers/multilingual.html) ser vi at de flerspråklige modellene er av type XLM, BERT, og XLM-RoBERTa. XLM fungerer ikke til denne oppgaven, men BERT og XLM-RoBERTa fungerer.
+
+Oppdatert: Nå er det rene norske modeller på plass. [Se dette innlegget for detaljer.]({{site.baseurl}}/2021/06/27/nye-norske-spraakmodeller.html)
 ### Flerspråklige modeller som skal fungere til norsk targeted sentimentanalyse med Simpletransformers:
 
 `bert-base-multilingual-uncased` 
