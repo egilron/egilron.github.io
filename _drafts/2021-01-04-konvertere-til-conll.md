@@ -1,5 +1,5 @@
 ---
-published: true
+published: false
 title: Nytt konverteringsskript for conll
 ---
 Når vi har lastet ned repoet for NoReC-fine, trenger vi å konvertere fra json til conll. Jeg nevnte i innlegget "Norske data for sentimentanalyse" at jeg var usikker på konverteringsskriptet som ligger i NoReC-fine-repoet. Jeg har sett på det, og funnet hva som var greia: Det var en try-except seksjon som måtte skrives om. Jeg har lagt til den nye konverteringsfila som pull-request til NoReC-fine-repoet, og du kan hente den derfra, eller fra [min fork](https://github.com/egilron/norec_fine/blob/master/convert_to_bio.py). 

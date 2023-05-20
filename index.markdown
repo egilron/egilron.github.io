@@ -4,4 +4,5 @@
 
 layout: home
 ---
-Løpende notater fra mitt arbeid med Transformer-baserte språkmodeller på norsk. Jeg bruker disse til å løse oppgaver innen sentimentanalyse, og Named Entity Recognition NER.
+## Sentimentanalyse på entitetsnivå
+Mai 2023: Denne bloggen er nå rensket for innlegg knyttet til masteroppgaven min, og skal nå brukes til å presentere det nye forskningsarbeidet rundt sentimentalanlyse på entitetsnivå. 

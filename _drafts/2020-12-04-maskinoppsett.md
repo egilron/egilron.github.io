@@ -1,5 +1,5 @@
 ---
-published: true
+published: false
 title: Oppsett maskin og programmer
 ---
 Det er ikke bare-bare å sette opp ei datamaskin for maskinlæring på grafikk-kortet. Men veldig artig når det er gjort. Jeg kjøpte meg en MSI bærbar med GTX 1070 grafikk-kort. Jeg installerte Linux på snurre-harddisken slik at jeg har dual boot. Jeg gjorde dette før jeg begynte å bruke den disken til noe annet, slik at jeg kunne la installasjonen styre med disken som den ville, men jeg lot en god partisjon bli NTFS slik at den kan brukes av begge systemene.

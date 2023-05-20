@@ -1,5 +1,5 @@
 ---
-published: true
+published: false
 title: Sequence tagging
 ---
 Når vi skal trene modell for targeted sentimentanalyse, har jeg valgt å gjøre det som _sequnece tagging_. Det vil si at vi for hver setning skal finne sekvenser som inneholder det vi er ute etter. Vi bruker en setning fra en konsertanmeldelse av Veronica Maggio som eksempel:

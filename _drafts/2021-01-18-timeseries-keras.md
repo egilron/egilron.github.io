@@ -1,5 +1,5 @@
 ---
-published: true
+published: false
 title: Timeseries med LSTM i Keras
 ---
 ### En liten avsporing

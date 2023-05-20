@@ -1,5 +1,5 @@
 ---
-published: true
+published: false
 title: Oppsett parametere
 ---
 Nå skal vi sette opp simpletransformers til å ta imot dataene våre, og sette parameterene. 

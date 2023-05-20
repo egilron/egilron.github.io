@@ -1,5 +1,5 @@
 ---
-published: true
+published: false
 title: Alternative transformersmodeller
 ---
 Så langt har vi gjort targeted sentemintanalyse med multilingual BERT som forhåndstrent språkmodell (pretrained language model). Men det kommer jo stadig nye modeller, så hva skal til for at vi kan bruke andre modeller til denne jobben? Det som skal til, er:

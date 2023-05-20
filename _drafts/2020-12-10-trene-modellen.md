@@ -1,5 +1,5 @@
 ---
-published: true
+published: false
 title: Trene modellen
 ---
 Når parameterne er satt til noe nogenlunde meningsfullt, er det bare tut og kjør og trene modellen.
