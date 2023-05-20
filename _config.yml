@@ -19,7 +19,7 @@
 # in the templates via {{ site.myvariable }}.
 
 title: Språkteknologi ved kjøkkenbenken
-email: egil.r@outlook.com
+email: egilron (at) my-university
 description: "Språkteknologi og NLP på norsk og med norske data. Sentimentanalyse på norsk."
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: "https://egilron.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
