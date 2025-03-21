@@ -1,7 +1,6 @@
 ---
-# Feel free to add content and custom Front Matter to this file.
-# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-
 layout: home
+published: false
 ---
-Mai 2023: Denne bloggen er nå rensket for innlegg knyttet til masteroppgaven min, og skal nå brukes til å presentere det nye forskningsarbeidet rundt sentimentalanlyse på entitetsnivå. 
+## Egil Rønningstad lenkeliste
+Mars 2025: Nå er jeg på siste året som doktorgradsstipendiat. Jeg jobber med språkteknologi på norsk, nærmere bestemt sentimentanalyse på lengre tekster. Jeg jobber ved språkteknologigruppa LTG ved Ifi, Universitetet i Oslo, sammen med [denne gjengen](https://www.mn.uio.no/ifi/english/research/groups/ltg/). Stillingen er finansiert gjennom NorwAI-samarbeidet, et spennede initiativ for å styrke samarbeid mellom akademia og næringslivet, i det å ta i bruk kunstig intelligens. 
