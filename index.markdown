@@ -1,6 +1,5 @@
 ---
 layout: home
-published: false
 ---
 # Egil Rønningstad
 Mars 2025: Nå er jeg på siste året som doktorgradsstipendiat. Jeg jobber med språkteknologi på norsk, nærmere bestemt sentimentanalyse på lengre tekster. Jeg jobber ved språkteknologigruppa LTG ved Ifi, Universitetet i Oslo, sammen med [denne gjengen](https://www.mn.uio.no/ifi/english/research/groups/ltg/). Stillingen er finansiert gjennom [NorwAI-samarbeidet](https://www.ntnu.edu/norwai), et spennede initiativ for å styrke samarbeid mellom akademia og næringslivet i det å ta i bruk kunstig intelligens.  
@@ -70,6 +69,3 @@ corpus annotated with anaphoric relations between noun phrases for Norwegian. Th
 2023  
 Retrieval-based language models are increasingly employed in question-answering tasks.
 These models search in a corpus of documents for relevant information instead of having all ...
-
-
-
