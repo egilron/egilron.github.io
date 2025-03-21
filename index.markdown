@@ -52,4 +52,24 @@ volitional entities (persons and organizations) in a document -- what we refer t
 Targeted Sentiment Analysis attempts to extract sentiment targets and the sentiment polarity  
 towards these targets, as explicitly expressed in text. Targeted Sentiment Analysis is a ...
 
+### Publisert arbeid med meg som medforfatter
+
+#### NorBench--A Benchmark for Norwegian Language Models
+2023  
+We present NorBench: a streamlined suite of NLP tasks and probes for evaluating Norwegian
+language models (LMs) on standardized data splits and evaluation metrics. We also ...
+
+ 
+#### NARC–Norwegian anaphora resolution corpus
+2022  
+We present the Norwegian Anaphora Resolution Corpus (NARC), the first publicly available
+corpus annotated with anaphoric relations between noun phrases for Norwegian. The paper ...
+
+
+#### BRENT: Bidirectional retrieval enhanced Norwegian transformer
+2023  
+Retrieval-based language models are increasingly employed in question-answering tasks.
+These models search in a corpus of documents for relevant information instead of having all ...
+
+
 
