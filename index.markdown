@@ -2,6 +2,11 @@
 layout: home
 published: false
 ---
-## Egil Rønningstad lenkeliste
+## Egil Rønningstad
 Mars 2025: Nå er jeg på siste året som doktorgradsstipendiat. Jeg jobber med språkteknologi på norsk, nærmere bestemt sentimentanalyse på lengre tekster. Jeg jobber ved språkteknologigruppa LTG ved Ifi, Universitetet i Oslo, sammen med [denne gjengen](https://www.mn.uio.no/ifi/english/research/groups/ltg/). Stillingen er finansiert gjennom [NorwAI-samarbeidet](https://www.ntnu.edu/norwai), et spennede initiativ for å styrke samarbeid mellom akademia og næringslivet i det å ta i bruk kunstig intelligens.  
-I tillegg til å ha bidratt med undervisning innen språkteknologi har jeg også hatt gleden av å jobbe et halvt år ekstra med [SANT-prosjektet](https://www.mn.uio.no/ifi/english/research/projects/sant/). Der har jeg bidratt til tilgjengeliggjøring og ny forskining på data som dette prosjektet har tilveiebrakt.
+I tillegg til å ha bidratt med undervisning innen språkteknologi har jeg også hatt gleden av å jobbe et halvt år ekstra med [SANT-prosjektet](https://www.mn.uio.no/ifi/english/research/projects/sant/). Der har jeg bidratt med tilgjengeliggjøring av data og ny forskining på disse datasettene som prosjektet har tilveiebrakt.
+
+### Lenkeliste
+Jeg har bidratt på disse datasettene og modellene
+- **[NoReC: The Norwegian Review Corpus](https://github.com/ltgoslo/norec):** Oppdatert til versjon 2.1
+- **[Targeted Sentiment Analysis on The Norwegian Review Corpus, NoReCtsa](https://github.com/ltgoslo/norec_tsa):** Et uttrekk av informasjonen i [NoReC_fine](https://github.com/ltgoslo/norec_fine) det hvert "sentiment target" er annotert for sentiment og intensitet. Også publisert på [Huggingface](https://huggingface.co/datasets/ltg/norec_tsa).
