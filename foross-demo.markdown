@@ -12,3 +12,6 @@ Teste funksjonaliteten. Søket gjøres i en tekstbase der all formatering er bor
 
 <!-- Element that opens the widget on click. It does not have to be an input -->
 <input placeholder="Search here" id="searchWidgetTrigger" />
+
+### System prompt pr 29.1.16
+![](img/foross_systemprompt.png)
